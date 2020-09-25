@@ -15,6 +15,9 @@ import java.util.List;
  *
  * http://localhost:8080/mi_ruta/dos
  * HOLA MUNDO
+ * Esta clase no tiene HighCohesion, porque mezcla lógica de presetación API con Acceso a Datos.
+ * Esta clase no tiene Loose Coupling. Por ende esta fuertemente acoplada.
+ *
  */
 
 @RestController
